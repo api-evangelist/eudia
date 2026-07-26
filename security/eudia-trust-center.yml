@@ -1,0 +1,38 @@
+generated: '2026-07-19'
+method: searched
+probe: true
+source: https://trust.eudia.com/
+url: https://trust.eudia.com/
+certifications:
+- SOC 2 Type 2
+- ISO/IEC 27001
+- ISO/IEC 42001:2023
+- GDPR
+documents:
+- Network Diagram
+- Pentest Report
+- Security Whitepaper
+- SOC 2 Report
+- Data Processing Agreement
+subprocessors:
+- AWS
+- Microsoft Azure
+- Elastic
+- Anthropic
+- OpenAI
+security_grades:
+- provider: SecurityScorecard
+  grade: A
+- provider: Qualys SSL Labs
+  grade: A+
+responsible_disclosure: true
+evidence:
+- source: https://trust.eudia.com/
+  keywords:
+  - soc 2 type 2
+  - iso/iec 27001
+  - iso/iec 42001:2023
+  - gdpr
+  - trust center
+  - subprocessors
+  - responsible disclosure

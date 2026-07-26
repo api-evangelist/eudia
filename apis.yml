@@ -1,8 +1,19 @@
 aid: eudia
 name: Eudia
-description: Eudia is a company surfaced as a portfolio company of general-catalyst, sierra-ventures and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Eudia is an enterprise augmented-intelligence platform for in-house legal,
+  compliance, and procurement teams at large organizations and government
+  agencies. Its "Enterprise Brain" ingests a company's contracts, policies,
+  precedents, and prior decisions and codifies the judgment of its legal experts
+  into governed AI workflows, while "Expert Digital Twins" let business teams
+  self-serve governed legal guidance without direct attorney involvement.
+  Products span compliance automation, contracting, decision self-service,
+  mergers and acquisitions, and litigation support, with connectors into
+  Microsoft, Google Drive, SharePoint, Box, Salesforce, DocuSign, OnIt, and
+  LinkSquares. Founded in 2023 and headquartered in Palo Alto, California,
+  Eudia raised a Series A of up to $105M led by General Catalyst with Sierra
+  Ventures, Floodgate, and Defy Partners. It does not currently publish a public
+  developer API; this profile tracks its identity, trust, and security posture.
 url: https://raw.githubusercontent.com/api-evangelist/eudia/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,11 +22,30 @@ x-backed-by:
 - sierra-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://framerusercontent.com/assets/6v5LtBM4ApMA5ApTuarA8oaZok0.jpg
 tags:
 - Company
+- Legal
+- Legal Tech
+- Artificial Intelligence
+- Augmented Intelligence
+- Compliance
+- Contract Management
+- Enterprise Software
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +55,30 @@ maintainers:
 common:
 - type: Website
   url: https://eudia.com/
+- type: About
+  url: https://eudia.com/about
+- type: Blog
+  url: https://eudia.com/blog
+- type: Integrations
+  url: https://eudia.com/integrations
+- type: Support
+  url: https://eudia.com/contact
+- type: TermsOfService
+  url: https://eudia.com/legal/terms-of-use
+- type: PrivacyPolicy
+  url: https://eudia.com/legal/privacy-policy
+- type: Compliance
+  url: https://trust.eudia.com/
+- type: TrustCenter
+  url: https://trust.eudia.com/
+- type: TrustCenter
+  url: security/eudia-trust-center.yml
+- type: DomainSecurity
+  url: security/eudia-domain-security.yml
+- type: LLMsTxt
+  url: llms/eudia-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

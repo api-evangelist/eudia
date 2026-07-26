@@ -1,0 +1,26 @@
+# Eudia
+
+> Eudia is an enterprise augmented-intelligence platform for in-house legal, compliance, and procurement teams. Its "Enterprise Brain" ingests an organization's contracts, policies, precedents, and prior decisions and codifies the judgment of its legal experts into governed AI workflows and "Expert Digital Twins." Founded in 2023 and based in Palo Alto, California; backed by General Catalyst and Sierra Ventures. Eudia does not publish a public developer API or documentation; integrations are delivered through connectors to enterprise systems.
+
+## Company
+- [Eudia](https://eudia.com/): Company home page.
+- [About](https://eudia.com/about): Company background and mission.
+- [Blog](https://eudia.com/blog): Insights on augmented intelligence in legal work.
+- [News](https://eudia.com/news): Press and announcements.
+- [Government](https://eudia.com/gov): Solutions for government legal teams.
+- [Contact / Schedule a demo](https://eudia.com/contact): Sales and support contact.
+
+## Solutions
+- [Compliance](https://eudia.com/solutions/compliance): Compliance automation.
+- [Contracting](https://eudia.com/solutions/contracting): Contract review and management.
+- [Decision Self Service](https://eudia.com/solutions/decision-self-service): Governed legal self-service for business teams.
+- [Mergers & Acquisitions](https://eudia.com/solutions/mergers-and-acquisitions): M&A support workflows.
+- [Litigation](https://eudia.com/solutions/litigation): Litigation assistance.
+
+## Integrations
+- [Integrations](https://eudia.com/integrations): Connectors for Microsoft, Google Drive, SharePoint, Box, Salesforce, DocuSign, OnIt, and LinkSquares across Document Storage, Contract Management, Revenue & Business Systems, and Agreement Execution. No public API is documented.
+
+## Trust & Legal
+- [Trust Center](https://trust.eudia.com/): SOC 2 Type 2, ISO/IEC 27001, ISO/IEC 42001:2023, GDPR; subprocessors, pentest report, and security whitepaper on request.
+- [Terms of Use](https://eudia.com/legal/terms-of-use): Terms of service.
+- [Privacy Policy](https://eudia.com/legal/privacy-policy): Privacy policy.
